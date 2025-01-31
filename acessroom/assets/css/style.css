@@ -1,0 +1,15 @@
+.box-btn{
+	width:80%;
+	border-radius: 20px 20px;
+	margin:40px 40px;
+	background: #EDeded;
+	color:white;
+	text-align: center;
+}
+
+.bg-blue{
+	background-color: #043960;
+}
+.invisivel{
+	display: none;
+}
